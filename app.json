@@ -1,0 +1,8 @@
+{
+  "name": "Crazy Frog",
+  "description": "Unknown",
+  "repository": "https://github.com/novariadi/game-crazy-frog",
+  "logo": "data/img/logo.png",
+  "keywords": ["grunt", "melonjs", "games"]
+}
+
